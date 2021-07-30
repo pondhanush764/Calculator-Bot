@@ -24,7 +24,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Start Calculate❤️', callback_data='CALCULATE_BUTTONS')
         ]]
-    
+      )
 CALCULATE_TEXT = "Enjoy me🥰"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
