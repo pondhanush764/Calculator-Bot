@@ -18,7 +18,7 @@ Made by @FayasNoushad
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Support', url='https://telegram.me/kittysupport')
+        InlineKeyboardButton('Support🥰', url='https://telegram.me/kittysupport')
         ]]
     )
 CALCULATE_TEXT = "Made by @THE_BOSS_OF_TELEGRAM"
