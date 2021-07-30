@@ -18,10 +18,10 @@ Made by @FayasNoushad
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('Support', url='https://telegram.me/kittysupport')
         ]]
     )
-CALCULATE_TEXT = "Made by @FayasNoushad"
+CALCULATE_TEXT = "Made by @THE_BOSS_OF_TELEGRAM"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
