@@ -19,8 +19,6 @@ Hello {}, I am a simple calculator telegram bot. Send me /calculator.
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Support🥰', url='https://telegram.me/kittysupport'),
-        ]],
-        [[
         InlineKeyboardButton('Creator👿', url='https://telegram.me/THE_BOSS_OF_TELEGRAM')
         ]]
     )
