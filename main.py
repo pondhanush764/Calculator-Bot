@@ -12,7 +12,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a simple calculator telegram bot. Touch down 'start calculate❤️' or hit /calc 🥳🥳
+Hello {}, I am a simple calculator telegram bot. Hit /calc and enjoy me🥳🥳!
 
 
 """
