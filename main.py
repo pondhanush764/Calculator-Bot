@@ -19,7 +19,7 @@ Hello {}, I am a simple calculator telegram bot. Hit /calc and enjoy me🥳🥳!
 START_IMG = "https://telegra.ph/file/f70871fa6b837c161e4c2.jpg"
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Support🥰', url='https://telegram.me/kittysupport'),
+        InlineKeyboardButton('Support🥰', url='https://telegram.me/tamilsupport'),
         InlineKeyboardButton('Creator👿', url='https://telegram.me/BOSS_OF_THE_TELEGRAM')
         ],[
         InlineKeyboardButton('My Sis😍', url='https://telegram.me/amalaprobot'),
