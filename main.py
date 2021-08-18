@@ -22,7 +22,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Support🥰', url='https://telegram.me/tamilsupport'),
         InlineKeyboardButton('Creator👿', url='https://telegram.me/BOSS_OF_THE_TELEGRAM')
         ],[
-        InlineKeyboardButton('My Sis😍', url='https://telegram.me/amalaprobot'),
+        InlineKeyboardButton('My thangachi😍', url='https://telegram.me/amalaprobot'),
         InlineKeyboardButton('My Akka🥰', url='https://telegram.me/tamilinibot')
         ],[
         InlineKeyboardButton('Tamil bots😍', url='https://telegram.me/TamilBots')
