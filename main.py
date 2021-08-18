@@ -12,7 +12,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a simple calculator telegram bot. Hit /calc and enjoy me🥳🥳!
+Hello {}, I am a simple calculator telegram bot. Hit /calc and enjoy me🥳🥳! Powered by @tamilbots 🥰
 
 
 """
@@ -22,7 +22,10 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Support🥰', url='https://telegram.me/kittysupport'),
         InlineKeyboardButton('Creator👿', url='https://telegram.me/THE_BOSS_OF_TELEGRAM')
         ],[
-        InlineKeyboardButton('My Sis😍', url='https://telegram.me/amalaprobot')
+        InlineKeyboardButton('My Sis😍', url='https://telegram.me/amalaprobot'),
+        InlikeKeyboardButton('My Akka🥰',url='https://telegram.me/tamilinibot')
+        ],[
+        InlineKeyboardButton('Tamil bots😍',url='https:t.me/TamilBots')
         ]]
       )
 CALCULATE_TEXT = "Enjoy me🥰"
