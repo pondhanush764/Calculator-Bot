@@ -23,9 +23,9 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Creator👿', url='https://telegram.me/THE_BOSS_OF_TELEGRAM')
         ],[
         InlineKeyboardButton('My Sis😍', url='https://telegram.me/amalaprobot'),
-        InlineKeyboardButton('My Akka🥰',url='https://telegram.me/tamilinibot')
+        InlineKeyboardButton('My Akka🥰', url='https://telegram.me/tamilinibot')
         ],[
-        InlineKeyboardButton('Tamil bots😍',url='https:telegram.me/TamilBots')
+        InlineKeyboardButton('Tamil bots😍', url='https://telegram.me/TamilBots')
         ]]
       )
 CALCULATE_TEXT = "Enjoy me🥰"
