@@ -12,7 +12,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a simple calculator telegram bot[.](https://telegra.ph/file/f70871fa6b837c161e4c2.jpg)Hit /calc and enjoy me🥳🥳! Powered by [Tamil Bots](t.me/tamilbotd)🥰
+Hello {}, I am a simple calculator telegram bot[😍](https://telegra.ph/file/f70871fa6b837c161e4c2.jpg) . Hit /calc and enjoy me🥳🥳! Powered by [Tamil Bots](t.me/tamilbots)🥰
 
 
 """
