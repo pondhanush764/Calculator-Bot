@@ -20,7 +20,7 @@ START_IMG = "https://telegra.ph/file/f70871fa6b837c161e4c2.jpg"
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Support🥰', url='https://telegram.me/kittysupport'),
-        InlineKeyboardButton('Creator👿', url='https://telegram.me/THE_BOSS_OF_TELEGRAM')
+        InlineKeyboardButton('Creator👿', url='https://telegram.me/BOSS_OF_THE_TELEGRAM')
         ],[
         InlineKeyboardButton('My Sis😍', url='https://telegram.me/amalaprobot'),
         InlineKeyboardButton('My Akka🥰', url='https://telegram.me/tamilinibot')
